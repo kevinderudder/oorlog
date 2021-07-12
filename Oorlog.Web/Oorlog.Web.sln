@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oorlog.Web", "Oorlog.Web\Oorlog.Web.csproj", "{EB691BBC-B8AB-4007-A076-497054367F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB691BBC-B8AB-4007-A076-497054367F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB691BBC-B8AB-4007-A076-497054367F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB691BBC-B8AB-4007-A076-497054367F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB691BBC-B8AB-4007-A076-497054367F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A8624E-CE91-4C35-87D7-FDA48E1824C0}
+	EndGlobalSection
+EndGlobal
